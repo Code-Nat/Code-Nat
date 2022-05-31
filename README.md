@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Code-Nat
-- 👀 I’m interested in software development, community projects, security, creating concept Games
+- 👀 I’m interested in software development, community projects, security, creating concept games
 - 🌱 I’m currently learning C#, C++ in deep levels
 - 💞️ I’m looking to collaborate on community projects
 - 📫 How to reach me will find a good way soon
