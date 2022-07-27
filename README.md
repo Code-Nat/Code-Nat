@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Code-Nat
 - 👀 I’m interested in software development, community projects, security, creating concept games
-- 🌱 I’m currently learning C#, C++ in deep levels
+- 🌱 I’m currently learning Machine Learning, AI, Natrual Langruge
+- 🛠️ I'm crrently working with VB.net, C#.net, Javascript, in ASP as Full Stack
+- 🙋 I'm crrently voltuering on #CulaLike Mangement site Project as Back End Developer
+- 🧑‍🏫 I'm always trying to help and teach the pepole around me where I can assist
 - 💞️ I’m looking to collaborate on community projects
 - 📫 How to reach me will find a good way soon
 
